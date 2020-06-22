@@ -1,6 +1,6 @@
 # DailyChallenge
 
-## 1431拥有最多糖果的孩子
+## 剑指 Offer 64 求1+2+…+n  
 
 `Medium`20200602
 
