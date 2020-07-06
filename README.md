@@ -1,8 +1,7 @@
 # LeetCode 题解
 
-欢迎关注微信公众号
+欢迎关注微信公众号:**GitKid**
 
 分享每日一题，周赛，双周赛题解
 
-<div align=center>
-<img src="Pictures/wechat.jpg" width = "50%" height = "50%" div align=center />
+![GitKid](https://github.com/shinezzz/LeetCode_cn/raw/master/Pictures/wechat.jpg)
